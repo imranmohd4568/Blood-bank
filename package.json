@@ -1,0 +1,45 @@
+{
+  "name": "bloodbank",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev -p 3001",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@coreui/react": "^4.9.1",
+    "@headlessui/react": "^1.1.1",
+    "@heroicons/react": "^1.0.1",
+    "@tailwindcss/forms": "^0.3.2",
+    "@tailwindcss/typography": "^0.4.1",
+    "axios": "^0.21.4",
+    "axios-cache-adapter": "^2.7.3",
+    "cross-env": "^7.0.3",
+    "js-cookie": "^3.0.5",
+    "next": "^10.2.3",
+    "next-auth": "^3.20.0",
+    "react": "17.0.1",
+    "react-accessible-accordion": "^4.0.0",
+    "react-dom": "17.0.1"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.2.5",
+    "html-webpack-plugin": "^5.3.1",
+    "postcss": "^8.2.13",
+    "tailwindcss": "^2.1.2",
+    "webpack": "^5.37.1",
+    "webpack-cli": "^4.7.0",
+    "webpack-dev-middleware": "^4.3.0",
+    "webpack-dev-server": "^3.11.2"
+  },
+  "description": "To make it easy for you to get started with GitLab, here's a list of recommended next steps.",
+  "main": "next.config.js",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": ""
+}
