@@ -1,10 +1,10 @@
 # Blood-bank
 
-This is a health-website of the company/organization (Nirmaan Orgaization) i worked for (period of 2 months). 
+This is a health-website of the company/organization (Nirmaan Orgaization) which i worked for (period of 2 months). 
 
 This was designed using React.js and tailwind css
 
-Mainly, this is an admin panel and donor registration, profile pages.
+Mainly, this is an admin panel com donor registration, profile page panel .
 
 First comes basic sign-in page where admin and donor can sign in(index.js). This page also consists register as donor button where people who are willing to donate blood can register as a donor.
 
